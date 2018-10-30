@@ -1,6 +1,6 @@
 # z-machine-games
 
-This repository contains various datasets of interactive fiction game used in training/testing learning agents.
+This repository contains various datasets of interactive fiction game used in training/testing learning agents. Keep in mind that there is overlap between game collections.
 
 ## Autoplay Game Suite
 
