@@ -4,15 +4,15 @@ This repository contains various datasets of interactive fiction game used in tr
 
 ## Autoplay Game Suite
 
-This dataset was used for [textplayer](https://github.com/danielricks/textplayer) (and later, [autoplay](https://github.com/danielricks/autoplay)), which was used by the [BYU Agent 2016](https://github.com/danielricks/BYU-Agent-2016), Carl (BYU's agent in 2017), and [Golovin](https://arxiv.org/pdf/1705.05637.pdf), an agent made by a team from the University of Wroclaw, Poland.
+This 50 game dataset was used for [textplayer](https://github.com/danielricks/textplayer) (and later, [autoplay](https://github.com/danielricks/autoplay)), which was used by the [BYU Agent 2016](https://github.com/danielricks/BYU-Agent-2016), Carl (BYU's agent in 2017), and [Golovin](https://arxiv.org/pdf/1705.05637.pdf), an agent made by a team from the University of Wroclaw, Poland.
 
 ## Jericho Game Suite
 
-This is a list of games supported by Microsoft's [Jericho](https://github.com/Microsoft/jericho).
+This is a list of 57 games supported by Microsoft's [Jericho](https://github.com/Microsoft/jericho).
 
 ## The Large Game Collection
 
-This is a massive list of games. Quality varies.
+This is a massive (1000+) list of games. Quality varies.
 
 ## Miscellaneous
 
