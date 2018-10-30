@@ -8,7 +8,7 @@ This 50 game dataset was used for [textplayer](https://github.com/danielricks/te
 
 ## Jericho Game Suite
 
-This is a list of 57 games supported by Microsoft's [Jericho](https://github.com/Microsoft/jericho).
+This is the list of 57 games supported by Microsoft's [Jericho](https://github.com/Microsoft/jericho).
 
 ## The Large Game Collection
 
